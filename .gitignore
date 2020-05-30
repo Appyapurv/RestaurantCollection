@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RestaurantCollection/v16/Server/sqlite3
+/RestaurantCollectionTests/obj
+/RestaurantCollection/obj
+/RestaurantCollection/bin/Debug/netcoreapp3.0
+/RestaurantCollectionTests/bin/Debug/netcoreapp3.0
